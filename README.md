@@ -1,11 +1,5 @@
-- Yo I'm Shygee, A 18 year old programmer. I like doing random stuff, like really random stuff. Oh, btw I code for FNF mods.
-- I have a discord but you will have to find that yourself.
-
-
-
-
-
-- vagina
+- Yo I'm Shygee, An 18 year old programmer. I'm fluent in Haxe and have been learning GDScript, Lua, and C#! I mostly code for FNF Mods but I plan to lean towards actual game development soon.
+- Yea that's about it tbh.
 
 <!---
 0neShyGuy/0neShyGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
